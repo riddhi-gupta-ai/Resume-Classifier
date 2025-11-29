@@ -1,7 +1,9 @@
 # Resume Classifier - AI-Powered Resume Classification
 
 This application uses machine learning to automatically classify resumes into 25+ job categories.
-link: https://resume-classifier-project.streamlit.app
+---
+Project link: [Click Here](https://resume-classifier-project.streamlit.app)
+---
 
 ## Features
 
